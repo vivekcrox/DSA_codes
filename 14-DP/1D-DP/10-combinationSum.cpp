@@ -1,0 +1,2 @@
+// No. of ways to reach the given target sum from the nums array & can use same element any no. of times.
+// * same as 'Coin Change' problem only difference is here we calc no. of ways, not min. count of element to reach target.
